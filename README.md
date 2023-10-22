@@ -2,7 +2,7 @@
  Ini adalah tugas UTS Pemrograman Mobile
 
  # Identitas
- Nama : Tb Muhammad Farhan Adnan
+ Nama : Tb Muhammad Farhan Adnan <br>
  NIM  : 3337220038
 # Spesifikasi Device
 Ryzen 3 5300U
