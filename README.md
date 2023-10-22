@@ -5,6 +5,6 @@
  Nama : Tb Muhammad Farhan Adnan <br>
  NIM  : 3337220038
 # Spesifikasi Device
-Ryzen 3 5300U
-2x4Gb DDR4 RAM (8Gb)
+Ryzen 3 5300U <br>
+2x4Gb DDR4 RAM (8Gb) <br>
 AMD Vega 7
